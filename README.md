@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Goel</h1>
-<h3 align="center">ML Engineer & Developer | Bridging AI and Software</h3>
+<h3 align="center">AI Engineer & Developer | Bridging AI and Software</h3>
 
 - 📫 How to reach me **me.manavgoel@gmail.com**
 
