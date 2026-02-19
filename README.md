@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Manav Goel</h1>
+<h3 align="center">🚀 AI Engineer | Bridging AI and Software 🤖</h3>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Techs!">
+</p> -->
+
+---
+
+
 # 💫 About Me:
 🔭 I’m currently building LLM-powered applications and production-ready RAG systems.<br>👯 I’m open to collaborating on Generative AI, LLM orchestration, and applied machine learning projects.<br>🤝 I’m seeking opportunities and mentorship in AI/ML internships and GenAI engineering roles.<br>🌱 I’m currently advancing my skills in LLM evaluation frameworks, retrieval optimization, and scalable AI systems.<br>💬 Ask me about RAG pipelines, prompt engineering, FastAPI, and DSA.<br>⚡ Fun fact: If it works on the first try, I immediately get suspicious.
 
