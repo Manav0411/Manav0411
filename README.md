@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 
-<img src="https://streak-stats.demolab.com?user=Manav0411&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manav0411&theme=kanagawa-paper)](https://git.io/streak-stats)
 
 
 
