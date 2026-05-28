@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently building LLM-powered applications and production-ready RAG systems.<br>👯 I’m open to collaborating on Generative AI, LLM orchestration, and applied machine learning projects.<br>🤝 I’m seeking opportunities and mentorship in AI/ML internships and GenAI engineering roles.<br>🌱 I’m currently advancing my skills in LLM evaluation frameworks, retrieval optimization, and scalable AI systems.<br>💬 Ask me about RAG pipelines, prompt engineering, FastAPI, and DSA.<br>⚡ Fun fact: If it works on the first try, I immediately get suspicious.
+🔭 I’m currently building LLM-powered applications and production-ready RAG systems.<br>👯 I’m open to collaborating on Generative AI, LLM orchestration and applied machine learning projects.<br>🤝 I’m seeking opportunities and mentorship in AI/ML internships and GenAI engineering roles.<br>🌱 I’m currently advancing my skills in LLM evaluation frameworks, retrieval optimization and scalable AI systems.<br>💬 Ask me about RAG pipelines, prompt engineering, FastAPI and DSA.<br>⚡ Fun fact: If it works on the first try, I immediately get suspicious.
 
 
 ## 🌐 Socials:
