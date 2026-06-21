@@ -1,27 +1,99 @@
-<h1 align="center">Hi 👋, I'm Manav Goel</h1>
-<h3 align="center">🚀 AI Engineer | Bridging AI and Software 🤖</h3>
+<h1 align="center">Hi, I'm Manav Goel 👋</h1>
+<h3 align="center">AI/ML Engineer building agentic AI systems & LLM infrastructure</h3>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Techs!">
-</p> -->
+<p align="center">
+B.Tech CS student (3rd year) designing multi-agent RAG pipelines, optimizing LLM costs in production and shipping full-stack AI applications end-to-end.
+</p>
 
 ---
 
+### 🔭 Projects
 
-# 💫 About Me:
-🔭 I’m currently building LLM-powered applications and production-ready RAG systems.<br>👯 I’m open to collaborating on Generative AI, LLM orchestration and applied machine learning projects.<br>🤝 I’m seeking opportunities and mentorship in AI/ML internships and GenAI engineering roles.<br>🌱 I’m currently advancing my skills in LLM evaluation frameworks, retrieval optimization and scalable AI systems.<br>💬 Ask me about RAG pipelines, prompt engineering, FastAPI and DSA.<br>⚡ Fun fact: If it works on the first try, I immediately get suspicious.
+- **[InsightGraph](https://github.com/Manav0411/InsightGraph-AI)** — an autonomous intelligence pipeline with a 6-agent LangGraph architecture, a two-stage hallucination firewall, memory-augmented RAG via pgvector, and tiered LLM routing (8B for filtering, 70B for deep analysis) — automated end-to-end with a GitHub Actions cron job
+- **[AskBase](https://github.com/Manav0411/AskBase)** — a production-ready RAG knowledge base with FAISS + Cohere embeddings, MMR retrieval to reduce hallucinations, and JWT/RBAC-secured FastAPI backend, deployed on Render + Vercel
+- **[Technical-Blog-Generator](https://github.com/Manav0411/Technical-Blog-Generator)** — an LLM-powered system that generates technical blog posts end-to-end from a given topic
 
+### 💼 Experience
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavgoel1104) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me.manavgoel@gmail.com) 
+**AI/ML Intern @ Hyrte** (Dec 2025 – Feb 2026)
+Redesigned LLM prompt orchestration for an interview pipeline and engineered a dual-layer evaluation system with adaptive difficulty progression. Optimized prompt structure and rolling context windows, **cutting LLM token usage by 42%** and improving response latency.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-## 📊 GitHub Stats
+### 🏆 Leadership
 
+**Vice-Lead, ACM ICPC Club** @ USICT, GGSIPU (2024–Present)
+Organize coding contests and DSA workshops; mentored 150+ junior students in algorithms and problem-solving.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manav0411&theme=kanagawa-paper)](https://git.io/streak-stats)
+### 🎯 What I'm looking for
 
+Open to **GenAI / LLM engineering roles and internships** focused on agentic systems, retrieval optimization and scalable AI infrastructure.
 
+### 💬 Ask me about
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+RAG architecture, agentic pipelines (LangGraph), LLM evaluation & cost optimization, FastAPI backends, or DSA - solved 500+ problems across LeetCode, GeeksforGeeks and CodeStudio.
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manav0411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Manav0411&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav0411&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/me_manaav?theme=dark&font=Karla&ext=heatmap" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-2C2D72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/manavgoel1104"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me.manavgoel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Manav0411"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/me_manaav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codolio.com/profile/Manav0411"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" /></a>
+</p>
