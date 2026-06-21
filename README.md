@@ -11,7 +11,7 @@ B.Tech CS student (3rd year) designing multi-agent RAG pipelines, optimizing LLM
 
 - **[InsightGraph](https://github.com/Manav0411/InsightGraph-AI)** — an autonomous intelligence pipeline with a 6-agent LangGraph architecture, a two-stage hallucination firewall, memory-augmented RAG via pgvector, and tiered LLM routing (8B for filtering, 70B for deep analysis) — automated end-to-end with a GitHub Actions cron job
 - **[AskBase](https://github.com/Manav0411/AskBase)** — a production-ready RAG knowledge base with FAISS + Cohere embeddings, MMR retrieval to reduce hallucinations, and JWT/RBAC-secured FastAPI backend, deployed on Render + Vercel
-- **[Technical-Blog-Generator](https://github.com/Manav0411/Technical-Blog-Generator)** — an LLM-powered system that generates technical blog posts end-to-end from a given topic
+- **[Technical-Blog-Generator](https://github.com/Manav0411/Technical-Blog-Generator)** — LLM-powered blog generation system which generates technical blog posts from a topic, optionally uses web research for up-to-date content and can also create and insert images into the final article.
 
 ### 💼 Experience
 
