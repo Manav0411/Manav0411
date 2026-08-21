@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer building agentic AI systems & LLM infrastructure</h3>
 
 <p align="center">
-B.Tech CS student at USICT, GGSIPU (graduating May 2027) designing multi-agent RAG pipelines, optimizing LLM costs in production and shipping full-stack AI applications end-to-end.
+B.Tech CS student at USICT, GGSIPU designing multi-agent RAG pipelines, optimizing LLM costs in production and shipping full-stack AI applications end-to-end.
 </p>
 
 <p align="center">
