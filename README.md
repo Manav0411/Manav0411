@@ -15,13 +15,13 @@ Final-year CS student at USICT, GGSIPU. I build backend services and the AI syst
 
 ### 💼 Experience
 
-**AI Engineer Intern @ IntelGrader** · *Jun 2026 – Aug 2026 (Remote)*
+**AI Engineer Intern @ IntelGrader** · *Jun 2026 – Aug 2026*
 
 Built a RAG-based assessment pipeline (Python, Gemini, LangChain, ChromaDB) over 50+ educational documents, using hybrid semantic search, BM25 reranking and LLM-based query routing to reach **95%+ chapter-classification accuracy**. Automated answer generation and grading for **1200+ exam questions** at up to **92% benchmark accuracy**, cutting manual content-review effort.
 
 Also engineered a multi-agent pipeline that turns Class 8–12 STEM content into interactive educational webpages across **12 visual families** (LLM orchestration, Node.js, JavaScript, HTML/CSS/SVG, browser automation), with automated validation and self-repair across 25+ generated experiences to cut recurring generation and rendering failures.
 
-**AI/ML Intern @ Hyrte** · *Dec 2025 – Feb 2026 (New Delhi)*
+**AI/ML Intern @ Hyrte** · *Dec 2025 – Feb 2026*
 
 Redesigned LLM prompt orchestration across an interview pipeline with LangChain, improving conversational coherence and reducing repetitive system responses. Engineered a dual-layer evaluation system (heuristic + evidence-based) with adaptive difficulty progression and priority-based topic ordering. Optimized prompt structure and rolling context windows, **cutting LLM token usage by 42%** and improving response latency in a FastAPI backend.
 
